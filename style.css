@@ -1,0 +1,24 @@
+p,
+h2,
+h3,
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+iframe {
+    width: auto;
+
+}
+
+body {
+    background: rgb(163,161,199);
+background: linear-gradient(90deg, rgba(163,161,199,1) 0%, rgba(240,184,110,1) 13%, rgba(215,207,207,1) 100%);
+
+}
+
+hr {
+    background: linear-gradient(to right, red, blue);
+  height: 2px;
+
+  }
+  
