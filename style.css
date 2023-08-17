@@ -7,9 +7,10 @@ font-family: 'Tangerine', cursive;
 h2,
 h3,
 h1 {
+    font-weight: bold;
     font-family: 'Press Start 2P', cursive;
 font-family: 'Tangerine', cursive;
-    font-size: 4rem;
+    font-size: 5rem;
 }
 
 iframe {
