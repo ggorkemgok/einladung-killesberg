@@ -23,7 +23,6 @@ background: linear-gradient(90deg, rgba(163,161,199,1) 0%, rgba(240,184,110,1) 1
   }
 
 hr {
-    visibility: hidden;
     margin: 0 auto;
     margin-top: 40px;
     width: 20%;
